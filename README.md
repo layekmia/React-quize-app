@@ -29,7 +29,6 @@ A dynamic and interactive **React Quiz Application** that tests users' knowledge
 
 - **Deployment:**
   - Netlify
-
 ---
 
 ## 📦 Installation
